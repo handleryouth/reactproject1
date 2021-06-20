@@ -1,0 +1,7 @@
+@media all and (max-width : 1440px) {
+    .column-container{
+        flex-direction: column;
+        width: 30%;
+        min-width:304.75px
+    }
+}
